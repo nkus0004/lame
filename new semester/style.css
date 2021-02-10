@@ -1,0 +1,9 @@
+#nav #nav {
+    width: 1200px;
+    margin: 0px auto;
+    padding: 30px;
+  
+    border: 3px solid cadetblue;
+    background-color: red;
+    text-align: center;
+  }
